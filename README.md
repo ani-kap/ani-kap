@@ -1,6 +1,6 @@
-```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-```
+md
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @ani-kap
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
